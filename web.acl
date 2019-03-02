@@ -7807,6 +7807,6 @@
 (^|\.)flzbcdn\.xyz$
 
 (^|\.)bitbucket\.(org|com)$
-(^|\.)aiaicili\.(org|com)$
+(^|\.)aiaicili\.(org|com|\w{3})$
 (^|\.)javlibrary\.(org|com)$
 (^|\.)polytechnique\.fr$
