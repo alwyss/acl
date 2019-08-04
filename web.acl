@@ -7639,6 +7639,8 @@
 (^|\.)vine\.co$
 (^|\.)vox-cdn\.com$
 (^|\.)wikileaks\.org$
+(^|\.)wikimedia\.org$
+(^|\.)wikitionary\.org$
 (^|\.)wuu\.wikipedia\.org$
 (^|\.)www\.youtube-nocookie\.com$
 (^|\.)youtu\.be$
