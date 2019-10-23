@@ -7812,3 +7812,5 @@
 (^|\.)aiaicili\.(org|com|\w{3})$
 (^|\.)javlibrary\.(org|com)$
 (^|\.)polytechnique\.fr$
+(^|\.)forums\.microsoft\.com$
+(^|\.)blogs\.msdn\.microsoft\.com$
