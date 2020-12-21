@@ -7815,4 +7815,5 @@
 (^|\.)forums\.microsoft\.com$
 (^|\.)blogs\.msdn\.microsoft\.com$
 (^|\.)chartio\.com$
+(^|\.)ckers\.org$
 https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/(^|\.)blogs\.msdn\.microsoft\.com$
