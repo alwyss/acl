@@ -7826,3 +7826,5 @@
 (^|\.)microsoft\.com$
 (^|\.)t\.co$
 (^|\.)githubusercontent\.com$
+(^|\.)chromium\.org$
+(^|\.)crbug\.com$
