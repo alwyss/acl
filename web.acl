@@ -7822,3 +7822,6 @@
 (^|\.)github\.com$
 (^|\.)jsfiddle\.net$
 (^|\.)bleepingcomputer\.com$
+(^|\.)stackoverflow\.com$
+(^|\.)microsoft\.com$
+(^|\.)t\.co$
